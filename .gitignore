@@ -8,3 +8,4 @@ public/
 /source/*_files/
 /source/*.xml
 /source/openseadragon
+_config.*.yml
