@@ -5,7 +5,7 @@ date: 2020-02-01
 
 {% raw %}
 <div id="openseadragon1" style="width:800px; height:510px; background-color:#0C0B0C"></div>
-<script src="/openseadragon/openseadragon.min.js"></script>
+<script src="/DZI/openseadragon/openseadragon.min.js"></script>
 <script type="text/javascript">
     var viewer = OpenSeadragon({
         id: "openseadragon1",
@@ -13,7 +13,7 @@ date: 2020-02-01
         showNavigationControl:false
     });
     viewer.addTiledImage({
-        tileSource: '/eigenVector.Pacman.xml',
+        tileSource: '/DZI/eigenVector.Pacman.xml',
         index:0
     });
 </script>

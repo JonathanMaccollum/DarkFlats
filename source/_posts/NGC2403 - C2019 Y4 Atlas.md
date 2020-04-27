@@ -5,12 +5,12 @@ date: 2020-04-09
 
 {% raw %}
 <div id="osdNGC2403at135mm" style="width:800px; height:510px; background-color:#0C0B0C"></div>
-<script src="/openseadragon/openseadragon.min.js"></script>
+<script src="/DZI/openseadragon/openseadragon.min.js"></script>
 <script type="text/javascript">
    (function(){
       var viewer = OpenSeadragon({
          id: "osdNGC2403at135mm",
-         prefixUrl: "/openseadragon/images/",
+         prefixUrl: "/DZI/openseadragon/images/",
          showNavigationControl:false
       });
 
@@ -31,7 +31,7 @@ date: 2020-04-09
       function refreshAt(index,replace=false){
          var src=sources[index];
          viewer.addTiledImage({
-                  tileSource:'/'+src.author+'.'+src.name+'.xml',
+                  tileSource:'/DZI/'+src.author+'.'+src.name+'.xml',
                   index:index,
                   replace:replace,
                   x:src.x,

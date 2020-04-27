@@ -5,7 +5,5 @@ db.json
 node_modules/
 public/
 .deploy*/
-/source/*_files/
-/source/*.xml
-/source/openseadragon
+/source/DZI/
 _config.*.yml
