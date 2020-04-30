@@ -7,3 +7,6 @@ public/
 .deploy*/
 /source/DZI/
 _config.*.yml
+themes/*
+source/Widefield/*/*.png
+source/Public-Data/*.png

@@ -31,6 +31,17 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
+# Navigation
+theme_config:
+  menu: 
+    Home: /
+#    Deep Sky: /Deep-Sky/
+    Widefield: /Widefield/
+    Patchwork: /Patchwork/
+    Public Data: /Public-Data/
+    About Me: /About-Me/
+  banner: images/banner.jpg
+
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
@@ -94,3 +105,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+
+deploy:
+  type: ''
