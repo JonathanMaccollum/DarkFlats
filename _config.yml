@@ -37,7 +37,7 @@ theme_config:
     Home: /
 #    Deep Sky: /Deep-Sky/
     Widefield: /Widefield/
-    Patchwork: /Patchwork/
+    Patchwork: /Patchwork/index.html
     Public Data: /Public-Data/
     About Me: /About-Me/
   banner: images/banner.jpg

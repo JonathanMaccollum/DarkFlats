@@ -8,5 +8,6 @@ public/
 /source/DZI/
 _config.*.yml
 themes/*
+source/Widefield/*/*.jpg
 source/Widefield/*/*.png
 source/Public-Data/*.png
