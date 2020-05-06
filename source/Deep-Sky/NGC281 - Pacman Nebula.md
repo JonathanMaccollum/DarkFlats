@@ -161,3 +161,5 @@ SHO Processing:
 * Dark Structure Enhance script to bring out dark gobules throughout the nebula
 
 * Various curves to bring the Ha background to Brown, Soften the Green Overcast, and enhance contrast
+
+{% commento %}
