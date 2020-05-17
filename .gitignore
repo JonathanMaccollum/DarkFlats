@@ -10,4 +10,6 @@ _config.*.yml
 themes/*
 source/Widefield/*/*.jpg
 source/Widefield/*/*.png
+source/Deep-Sky/*/*.jpg
+source/Deep-Sky/*/*.png
 source/Public-Data/*.png
