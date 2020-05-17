@@ -1,6 +1,13 @@
 ---
 title: Hyades Open Cluster
 date: 2020-05-04 01:00:00
+
+tags:
+- Widefield
+- Camera Lens
+- Dust
+- Star Cluster
+- Molecular Clouds
 ---
 
 ![Hyades Open Cluster in Taurus](/Widefield/Taurus/Hyades.136x120s.135mm.L3.integration.Draft5.web.jpg "Hyades Open Cluster in Taurus")
