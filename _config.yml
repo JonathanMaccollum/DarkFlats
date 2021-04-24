@@ -5,7 +5,7 @@
 # Site
 title: Dark Flats
 subtitle: Astrophotography
-description: A portfolio and ramblings of an amateur astrophotogropher
+description: A portfolio and ramblings of an amateur astrophotographer
 keywords:
 author: Jonathan W. MacCollum
 language: en
@@ -34,12 +34,12 @@ skip_render:
 # Navigation
 theme_config:
   menu: 
-    Home: /
-#    Deep Sky: /Deep-Sky/
-    Widefield: /Widefield/
-    Patchwork: /Patchwork/index.html
-    Public Data: /Public-Data/
-    About Me: /About-Me/
+    Home: https://darkflats.com/
+    Works in Progress: https://projects.darkflats.com/
+    Widefield: https://www.darkflats.com/Widefield/
+    Patchwork: https://www.darkflats.com/Patchwork/
+    Public Data: https://www.darkflats.com/Public-Data/
+    About Me: https://www.darkflats.com/About-Me/
   banner: images/banner.jpg
 
 # Writing
@@ -49,7 +49,7 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude: ''
+  exclude: ['darkflats.com','www.darkflats.com','projects.darkflats.com']
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
